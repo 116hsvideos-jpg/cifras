@@ -1,0 +1,14 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Chuvas",
+      "link": "https://raw.githubusercontent.com/116hsvideos-jpg/cifras/main/cifras/1.txt"
+    },
+    {
+      "id": 2,
+      "title": "Epitáfio",
+      "link": "https://raw.githubusercontent.com/joaosilva/cifras/main/cifras/2.txt"
+    }
+  ]
+}
